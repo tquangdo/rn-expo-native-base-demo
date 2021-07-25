@@ -1,6 +1,6 @@
 # rn-native-base-demo 🐳
 https://docs.nativebase.io/
-- **need check has this ERR or not when deploy: `undefined.`**
+- **need check has this ERR or not when deploy: `expected a string (for built-in components) or a class/function (for composite components) but got: undefined`**
 
 ![Stars](https://img.shields.io/github/stars/tquangdo/rn-native-base-demo?color=f05340)
 ![Issues](https://img.shields.io/github/issues/tquangdo/rn-native-base-demo?color=f05340)
