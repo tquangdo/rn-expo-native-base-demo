@@ -1,7 +1,7 @@
 import { Body, Button, Card, CardItem, Icon, Left, Text, Thumbnail } from 'native-base';
 import React, { Component } from 'react';
 import { Image, SafeAreaView, ScrollView, StatusBar } from 'react-native';
-export default class CardComponent extends Component {
+export default class NativeBaseDemo2 extends Component {
   render() {
     return <SafeAreaView>
       <StatusBar barStyle='dark-content' />
