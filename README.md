@@ -40,7 +40,8 @@ pod install
 ```shell
 yarn react-native run-ios
 ```
--> will show ERR `Multiple commands produce... [CP] Copy Pods Resources`!!!
-3. remove the font files from `Copy Bundle Resources`, so that they are only in [CP] Copy Pods Resources
+-> will show ERR `Multiple commands produce... [CP] Copy Pods Resources`!!!\
+\
+ 3. remove the font files from `Copy Bundle Resources`, so that they are only in [CP] Copy Pods Resources
 ************************
 ![4](screenshots/4.png)
