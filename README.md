@@ -1,12 +1,12 @@
-# rn-native-base-demo 🐳
+# rn-expo-native-base-demo 🐳
 - https://docs.nativebase.io/
 - https://picsum.photos/seed/xxx/200/300
 - **need check has this ERR or not when deploy: `expected a string (for built-in components) or a class/function (for composite components) but got: undefined`**
 
-![Stars](https://img.shields.io/github/stars/tquangdo/rn-native-base-demo?color=f05340)
-![Issues](https://img.shields.io/github/issues/tquangdo/rn-native-base-demo?color=f05340)
-![Forks](https://img.shields.io/github/forks/tquangdo/rn-native-base-demo?color=f05340)
-[![Report an issue](https://img.shields.io/badge/Support-Issues-green)](https://github.com/tquangdo/rn-native-base-demo/issues/new)
+![Stars](https://img.shields.io/github/stars/tquangdo/rn-expo-native-base-demo?color=f05340)
+![Issues](https://img.shields.io/github/issues/tquangdo/rn-expo-native-base-demo?color=f05340)
+![Forks](https://img.shields.io/github/forks/tquangdo/rn-expo-native-base-demo?color=f05340)
+[![Report an issue](https://img.shields.io/badge/Support-Issues-green)](https://github.com/tquangdo/rn-expo-native-base-demo/issues/new)
 
 ## usage
 scan bar code on `expo go` appstore
